@@ -1,6 +1,6 @@
 # HTML : 
 
-Ce Repo contient exemple HTML : 
+Ce Repo contient des exemple en HTML : 
 
 **-Titre et paragraphe:**
 
