@@ -2,7 +2,7 @@
 
 Ce Repo contient exemple HTML : 
 
-**- Titre et paragraphe : **
+**-Titre et paragraphe:**
 
 ```html
 <!DOCTYPE html>
@@ -20,7 +20,7 @@ Test Paragraph : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim 
 ```
 
 
-**- Titre paragraphe et image avec lorem : **
+**-Titre paragraphe et image avec lorem:**
 
 ```html
 <!DOCTYPE html>
