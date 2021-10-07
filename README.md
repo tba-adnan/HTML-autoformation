@@ -1,6 +1,7 @@
 # HTML : 
 
-ce dépôt contient exemple HTML d'un : 
+ce Repo contient exemple HTML : 
 
 **Titre et paragraphe**
-**Titre , paragraphe et image avec lorem**
+
+**Titre paragraphe et image avec lorem**
