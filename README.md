@@ -1,6 +1,6 @@
 # HTML : 
 <details>
-  <summary> Titre et paragraphe :</summary>
+  <summary>✔ Titre et paragraphe :</summary>
   
 ```html
 <!DOCTYPE html>
@@ -18,7 +18,7 @@ Test Paragraph : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim 
 </details>
 
 <details>
-  <summary> Titre paragraphe et image avec lorem :</summary>
+  <summary>✔ Titre paragraphe et image avec lorem :</summary>
 
 ```html
 <!DOCTYPE html>
@@ -38,7 +38,7 @@ Test Paragraph : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim 
 </details>
 
 <details>
-  <summary> HTML Elements :</summary>
+  <summary>✔ HTML Elements :</summary>
 
 ```html
 <!DOCTYPE html>
@@ -54,7 +54,7 @@ Test Paragraph : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim 
 </details>
 
 <details>
-  <summary>HTML attributes :</summary>
+  <summary>✔ HTML attributes :</summary>
   
   - **List of known attributes** : 
     
@@ -86,7 +86,7 @@ Test Paragraph : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim 
 </details>
 
 <details>
- <summary>HTML Headings :</summary> 
+ <summary>✔ HTML Headings :</summary> 
 
  # Headings :
 
@@ -102,7 +102,7 @@ Test Paragraph : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim 
 </details>
 
 <details>
- <summary>HTML Paraghraphs :</summary>
+ <summary>✔ HTML Paraghraphs :</summary>
  
  # Paragraphs :
 
@@ -112,7 +112,7 @@ Test Paragraph : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim 
 </details>
 
 <details>
- <summary>HTML Links :</summary>
+ <summary>✔ HTML Links :</summary>
 
 # HTML Links : 
 ```html
@@ -123,7 +123,7 @@ Test Paragraph : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim 
 </details>
 
 <details>
- <summary>HTML Text Formatting :</summary>
+ <summary>✔ HTML Text Formatting :</summary>
 
 - Live HTML text Formatting Examples : 
 
@@ -149,7 +149,7 @@ Test Paragraph : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim 
 </details>
 
 <details>
- <summary>HTML Styles :</summary>
+ <summary>✔ HTML Styles :</summary>
 
 # HTML styles : 
 
@@ -177,7 +177,7 @@ Exemples :
 </details>
 
 <details>
- <summary>HTML images :</summary>
+ <summary>✔ HTML images :</summary>
 
 ```html
 
@@ -191,7 +191,7 @@ Exemples :
 </details>
 
 <details>
- <summary>HTML Tables :</summary>
+ <summary>✔ HTML Tables :</summary>
 
 - En Cours...
 
