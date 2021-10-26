@@ -1,8 +1,7 @@
 # HTML : 
-
-Ce Repo contient des exemple en HTML : 
-
-**-Titre et paragraphe:**
+<detail>
+  
+<summary>- Titre et paragraphe:</summary>
 
 ```html
 <!DOCTYPE html>
@@ -18,9 +17,10 @@ Test Paragraph : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim 
 </html>
 
 ```
+</detail>
 
-
-**-Titre paragraphe et image avec lorem:**
+<detail>
+<summary>- Titre paragraphe et image avec lorem:</summary>
 
 ```html
 <!DOCTYPE html>
@@ -37,4 +37,4 @@ Test Paragraph : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim 
 </body>
 </html>
 ```
-
+</detail>
