@@ -1,5 +1,5 @@
 # HTML : 
-<detail>
+<details>
   <summary>- Titre et paragraphe:</summary>
   
 ```html
@@ -15,9 +15,9 @@ Test Paragraph : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim 
 </body>
 </html>
 ```
-</detail>
+</details>
 
-<detail>
+<details>
   <summary>- Titre paragraphe et image avec lorem:</summary>
 
 ```html
@@ -35,4 +35,4 @@ Test Paragraph : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim 
 </body>
 </html>
 ```
-</detail>
+</details>
