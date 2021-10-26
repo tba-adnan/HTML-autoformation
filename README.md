@@ -1,6 +1,6 @@
 # HTML : 
 <details>
-  <summary>- Titre et paragraphe:</summary>
+  <summary> Titre et paragraphe:</summary>
   
 ```html
 <!DOCTYPE html>
@@ -18,7 +18,7 @@ Test Paragraph : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim 
 </details>
 
 <details>
-  <summary>- Titre paragraphe et image avec lorem:</summary>
+  <summary> Titre paragraphe et image avec lorem:</summary>
 
 ```html
 <!DOCTYPE html>
