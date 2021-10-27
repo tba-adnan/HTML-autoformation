@@ -218,4 +218,6 @@ Exemples :
 <details>
   <summary>✔ Symentic des Balises :</summary>
   
+  [Reference1 : HTML - Semantics 101 W3 schools](https://www.w3schools.com/html/html5_semantic_elements.asp)
+  
  </details>
