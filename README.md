@@ -243,8 +243,7 @@ Exemples :
 </section>
 
 ```
- </details>
- 
+  
  
 #### Article : 
 
