@@ -196,3 +196,23 @@ Exemples :
 - En Cours...
 
 </details>
+
+<details>
+  <summary>✔ HTML Lists :</summary>
+  
+</details>
+
+<details>
+  <summary>✔ HTML Forms :</summary>
+
+</details>
+
+<details>
+  <summary>✔ iFrames :</summary>
+ 
+</details>
+
+<details>
+  <summary>✔ Symentic des Balises :</summary>
+  
+ </details>
