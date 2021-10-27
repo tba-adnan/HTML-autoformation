@@ -226,4 +226,17 @@ Exemples :
   
   [Reference3 : HTML - Tous Les Eléments Symentic](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
   
+  ```html
+
+<section>
+<h1>WWW-1</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae elementum elit. Etiam blandit erat et neque interdum mollis. Duis facilisis magna ipsum, vel vestibulum massa rhoncus ac. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras lacinia eleifend lacinia. Morbi purus lectus, gravida sit amet quam non, porttitor ultrices velit. In hac habitasse platea dictumst. Nulla posuere suscipit purus, accumsan consequat dolor facilisis vel. In volutpat molestie ipsum, a pretium nisl eleifend a. Ut eget libero diam. Duis vel ultricies dolor. Ut ex arcu, fermentum nec turpis nec, tincidunt varius est. Donec elementum, urna at euismod elementum, nisi quam posuere ante, facilisis hendrerit eros erat sit amet urna. Aliquam ut accumsan arcu, vitae dictum massa.</p>
+</section>
+
+<section>
+<h1>WWW-2</h1>
+<pLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae elementum elit. Etiam blandit erat et neque interdum mollis. Duis facilisis magna ipsum, vel vestibulum massa rhoncus ac. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras lacinia eleifend lacinia. Morbi purus lectus, gravida sit amet quam non, porttitor ultrices velit. In hac habitasse platea dictumst. Nulla posuere suscipit purus, accumsan consequat dolor facilisis vel. In volutpat molestie ipsum, a pretium nisl eleifend a. Ut eget libero diam. Duis vel ultricies dolor. Ut ex arcu, fermentum nec turpis nec, tincidunt varius est. Donec elementum, urna at euismod elementum, nisi quam posuere ante, facilisis hendrerit eros erat sit amet urna. Aliquam ut accumsan arcu, vitae dictum massa.The Panda has become the symbol of WWF. The well-known panda logo of WWF originated from a panda named Chi Chi that was transferred from the Beijing Zoo to the London Zoo in the same year of the establishment of WWF.</p>
+</section>
+
+```
  </details>
