@@ -226,6 +226,8 @@ Exemples :
   
   [Reference3 : HTML - Tous Les Eléments Symentic](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
   
+  #### <section></section> : 
+  
   ```html
 
 <section>
