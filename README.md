@@ -256,5 +256,38 @@ Exemples :
 </artcile>
 
 ```
+  
+#### Header :
+  
+```html
+<!DOCTYPE html>
+<html>
+<body>
 
+<article>
+  <header>
+    <h1>header test?</h1>
+    <p>adnane says h!:</p>
+  </header>
+  <p>you sould really put a long paragraph here or just add a lorem</p>
+</article>
 
+</body>
+</html>
+```
+  
+#### Footer : 
+  
+```html
+<!DOCTYPE html>
+<html>
+<body>
+
+<footer>
+  <p>Author: Adnane Tebbaa</p>
+  <p><a href="mailto:razorzeroday@gmail.com">adnane.tebbaa@gmail.com</a></p>
+</footer>
+
+</body>
+</html>
+```
