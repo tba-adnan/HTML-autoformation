@@ -1,6 +1,6 @@
 # HTML : 
 
-![alt text](https://raw.githubusercontent.com/tebbaa-adnane/HTML/main/%40media/html.png "HTML")
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 
 <details>
   <summary>✔ Titre et paragraphe :</summary>
